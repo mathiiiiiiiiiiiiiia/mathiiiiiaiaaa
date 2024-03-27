@@ -1,0 +1,21 @@
+body{background-color: whitesmoke;}
+h1{
+    color: rgb(rgb(141, 78, 78), rgb(73, 85, 73), rgb(180, 180, 199));
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 80px;
+}
+h2{
+    color: rgba(45, 68, 75, 0.651);
+    text-align: left;
+}
+p{
+    color: rgba(58, 71, 73, 0.534);
+    text-align: left;
+}
+image{ 
+    width: 1000px;
+    height: 1000px;
+    text-align: center;
+    font: size 100px;
+}
